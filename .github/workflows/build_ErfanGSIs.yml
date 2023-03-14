@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/developers/android/udc/images/factory/redfin_beta-upp1.230113.009-factory-fd5d78b7.zip
+  ROM_URL: https://pika.pikabot.workers.dev/0:/mcaosp-13-whyred-20230311-0853.zip
   ROM_NAME: Pixel
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: MAX3_Aonly_20.8.6-eu.7z
-  ROM_AB: MiniOniiGSIs-Pixel-5-Android-U-100223.7z
+  ROM_AB: MiniOniiGSIs-McAOSP-13-140523.7z
 
 jobs:
   build:
