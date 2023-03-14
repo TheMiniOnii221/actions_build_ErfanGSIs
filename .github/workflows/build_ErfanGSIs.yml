@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pika.pikabot.workers.dev/0:/mcaosp-13-whyred-20230311-0853.zip
-  ROM_NAME: Pixel
+  ROM_URL: https://pika.pikabot.workers.dev/0:/LMODroid%203.3-MarchUpdate-Vanilla.zip
+  ROM_NAME: Generic
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: MAX3_Aonly_20.8.6-eu.7z
-  ROM_AB: MiniOniiGSIs-McAOSP-13-140523.7z
+  ROM_AB: MiniOniiGSIs-LmoDroid-3.3-12.1-140523.7z
 
 jobs:
   build:
