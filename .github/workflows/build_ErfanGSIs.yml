@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pika.pikabot.workers.dev/0:/LMODroid%203.3-MarchUpdate-Vanilla.zip
+  ROM_URL: https://mirrorbits.lineageos.org/full/vayu/20230512/lineage-19.1-20230512-nightly-vayu-signed.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_AONLY: false
