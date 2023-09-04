@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/vayu/20230512/lineage-19.1-20230512-nightly-vayu-signed.zip
+  ROM_URL: https://takeshi.dev/0:/whyred/qassa-Sisu-v2.2-lavender-20230826-1833-Vanilla.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: MAX3_Aonly_20.8.6-eu.7z
-  ROM_AB: MiniOniiGSIs-LmoDroid-3.3-12.1-140523.7z
+  ROM_AB: MiniOniiGSIs-qassa.7z
 
 jobs:
   build:
